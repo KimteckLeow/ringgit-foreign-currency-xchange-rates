@@ -4,6 +4,6 @@ This dashboard is meant to monitor exchange rates between Malaysian official cur
 
 # License
 
-This project is published under the [MIT license] (https://github.com/KimteckLeow/Monitoring-Currency-Xchange/blob/main/README.md).
+This project is published under the [Creative Commons Zero v1.0 Universal] (https://github.com/KimteckLeow/Monitoring-Currency-Xchange/blob/main/README.md).
 
 The data was source from https://www.bnm.gov.my/exchange-rates.
