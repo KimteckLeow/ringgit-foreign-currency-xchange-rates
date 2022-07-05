@@ -1,8 +1,8 @@
-# Monitoring-Currency-Xchange
+# Ringgit-Foreign-Currency-Exchange-Rates
 
 This dashboard is meant to monitor exchange rates between Malaysian official currency (Ringgit) and a number of major foreign currencies.
 
-# License
+## License
 
 This project is published under the [Creative Commons Zero v1.0 Universal] (https://github.com/KimteckLeow/Monitoring-Currency-Xchange/blob/main/README.md).
 
