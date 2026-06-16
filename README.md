@@ -1,6 +1,6 @@
 # Ringgit-Foreign-Currency-Exchange-Rates
 
-This dashboard is meant to monitor exchange rates between Malaysian official currency (Ringgit) and a number of major foreign currencies since 2000.
+This dashboard is meant to monitor exchange rates between Malaysian official currency (Ringgit) and a number of major foreign currencies since 2000. More update will be done on a suitable date.
 
 ## 
 
